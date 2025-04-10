@@ -2,6 +2,12 @@
 
 <h3 align="center">My name is Muhammad Nurul Firdaus and I'm a A curious learner with a passion for continuous growth in the tech field.</h3>
 
+<p align="center">
+  <a href="https://github.com/nurulfir">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Front-End+Developer;Lover+of+Clean+and+Modern+Designs;Always+Learning+New+Things" />
+  </a>
+</p>
+
 ---
 
 <h2 align="left">About me</h2>
