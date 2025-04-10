@@ -1,18 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-###
+<h3 align="center">My name is Muhammad Nurul Firdaus and I'm a A curious learner with a passion for continuous growth in the tech field.</h3>
 
-<p align="left">My name is Muhammad Nurul Firdaus and I'm a A curious learner with a passion for continuous growth in the tech field.</p>
-
-###
+---
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">🎓 I'm an IT student with a strong interest in technology and innovation.<br>💡 I love exploring various fields in tech, such as:<br>- Web & mobile app development<br>- UI/UX design<br>- Cloud computing<br>- Artificial Intelligence<br>👨‍💻 I enjoy learning new programming languages and building real-world projects.<br>🤝 I'm open to collaboration, teamwork, and contributing to tech communities.<br>🚀 Always motivated to grow, improve, and turn ideas into solutions.<br>✍️ I also enjoy sharing knowledge through content creation and discussions.</p>
-
-###
+🎓 I'm an IT student with a strong interest in technology and innovation.
+💡 I love exploring various fields in tech, such as:
+- Web & mobile app development
+- UI/UX design
+- Cloud computing
+- Artificial Intelligence
+👨‍💻 I enjoy learning new programming languages and building real-world projects.
+🤝 I'm open to collaboration, teamwork, and contributing to tech communities.
+🚀 Always motivated to grow, improve, and turn ideas into solutions.
+✍️ I also enjoy sharing knowledge through content creation and discussions.</p>
+---
 
 <h2 align="left">I code with</h2>
 
