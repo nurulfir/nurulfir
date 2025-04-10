@@ -6,16 +6,12 @@
 
 <h2 align="left">About me</h2>
 
-🎓 I'm an IT student with a strong interest in technology and innovation.
-💡 I love exploring various fields in tech, such as:
-- Web & mobile app development
-- UI/UX design
-- Cloud computing
-- Artificial Intelligence
-👨‍💻 I enjoy learning new programming languages and building real-world projects.
-🤝 I'm open to collaboration, teamwork, and contributing to tech communities.
-🚀 Always motivated to grow, improve, and turn ideas into solutions.
-✍️ I also enjoy sharing knowledge through content creation and discussions.</p>
+- 🎓 I'm an IT student with a strong interest in technology and innovation.
+- 💡 I love exploring various fields in tech, such as: Web & mobile app development, UI/UX design, Artificial Intelligence.
+- 👨‍💻 I enjoy learning new programming languages and building real-world projects.
+- 🤝 I'm open to collaboration, teamwork, and contributing to tech communities.
+- 🚀 Always motivated to grow, improve, and turn ideas into solutions.
+- ✍️ I also enjoy sharing knowledge through content creation and discussions.</p>
 ---
 
 <h2 align="left">I code with</h2>
